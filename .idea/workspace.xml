@@ -2,17 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7222a183-d78e-4ad7-8cbe-7c965592959f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculadoraTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalculadoraTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculadoraTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,7 +70,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CalculadoraTest (1)">
+    <configuration name="CalculadoraTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CalculadoraTest" type="JUnit" factoryName="JUnit">
       <module name="Calculadora" />
       <useClassPathOnly />
@@ -72,6 +92,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculadoraTest.multiplicacion2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Calculadora" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculadoraTest" />
+      <option name="METHOD_NAME" value="multiplicacion2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculadoraTest (1)" />
+        <item itemvalue="JUnit.CalculadoraTest.multiplicacion2" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -86,7 +122,7 @@
       <workItem from="1606274603439" duration="6637000" />
       <workItem from="1606355029058" duration="286000" />
       <workItem from="1606355357653" duration="7827000" />
-      <workItem from="1606430393382" duration="582000" />
+      <workItem from="1606430393382" duration="3647000" />
     </task>
     <servers />
   </component>
@@ -145,22 +181,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606284845337" />
-    <state width="1308" height="176" key="GridCell.Tab.0.bottom" timestamp="1606372274910">
+    <state width="1325" height="178" key="GridCell.Tab.0.bottom" timestamp="1606434588865">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606372274910" />
-    <state width="1308" height="176" key="GridCell.Tab.0.center" timestamp="1606372274910">
+    <state width="1325" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606434588865" />
+    <state width="1325" height="178" key="GridCell.Tab.0.center" timestamp="1606434588864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606372274910" />
-    <state width="1308" height="176" key="GridCell.Tab.0.left" timestamp="1606372274910">
+    <state width="1325" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606434588864" />
+    <state width="1325" height="178" key="GridCell.Tab.0.left" timestamp="1606434588864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606372274910" />
-    <state width="1308" height="176" key="GridCell.Tab.0.right" timestamp="1606372274910">
+    <state width="1325" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606434588864" />
+    <state width="1325" height="178" key="GridCell.Tab.0.right" timestamp="1606434588864">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1308" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606372274910" />
+    <state width="1325" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606434588864" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1606284849663">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
